@@ -52,11 +52,58 @@
   {
     "id": 11,
     "website": "",
-    "api": ""
+    "api": "https://openapi.programming-hero.com/api/phones?search=<searchText>",
+    "api_2": "https://openapi.programming-hero.com/api/phone/<id>"
   },
   {
     "id": 12,
+    "website": "https://api.adviceslip.com/",
+    "api": "https://api.adviceslip.com/advice"
+  },
+  {
+    "id": 13,
+    "website": "https://fakestoreapi.com/",
+    "api": "https://fakestoreapi.com/products"
+  },
+  {
+    "id": 14,
+    "website": "https://pixabay.com/api/docs/",
+    "api": "https://pixabay.com/api/?key=<ApiKey>=<query>&image_type=photo&pretty=true"
+  },
+  {
+    "id": 15,
     "website": "",
-    "api": ""
+    "api": "https://github.com/SEC-MASUM/salary-app-debug/blob/main/data/salaryData.json"
+  },
+  {
+    "id": 16,
+    "website": "",
+    "api": "https://github.com/SEC-MASUM/book-bhandar-debug/blob/main/data/bookData.json"
+  },
+  {
+    "id": 17,
+    "website": "",
+    "api": "https://github.com/Programming-Hero-Web-Course4/insta-shohor-SEC-MASUM/blob/main/data/posts.json"
+  },
+  {
+    "id": 18,
+    "website": "",
+    "api": "https://github.com/SEC-MASUM/ema-john-resources/blob/main/fakeData/products.json"
+  },
+  {
+    "id": 19,
+    "website": "",
+    "api": "https://github.com/SEC-MASUM/kopabe-samsur-pola-with-react/blob/main/public/data.json"
+  },
+  {
+    "id": 20,
+    "website": "",
+    "api": "https://github.com/SEC-MASUM/fulfill-fruity-demand-resource/blob/main/data.json"
+  },
+  {
+    "id": 21,
+    "website": "https://www.coingecko.com/en/api",
+    "api": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=false",
+    "api_2": "https://api.coingecko.com/api/v3/coins/<id>"
   }
 ]
