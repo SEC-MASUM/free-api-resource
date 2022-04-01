@@ -1,0 +1,18 @@
+[
+
+  {
+    id: '1',
+    website: 'https://www.themealdb.com/',
+    api: 'www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata',
+  },
+  {
+    id: '2',
+    website: 'https://www.themealdb.com/',
+    api: 'www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata',
+  },
+  {
+    id: '3',
+    website: '',
+    api: '',
+  },
+]
