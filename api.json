@@ -1,18 +1,62 @@
 [
-
   {
-    id: '1',
-    website: 'https://www.themealdb.com/',
-    api: 'www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata',
+    "id": 1,
+    "website": "https://www.themealdb.com/",
+    "api": "www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata"
   },
   {
-    id: '2',
-    website: 'https://www.themealdb.com/',
-    api: 'www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata',
+    "id": 2,
+    "website": "https://jsonplaceholder.typicode.com/",
+    "api": "https://jsonplaceholder.typicode.com/users/"
   },
   {
-    id: '3',
-    website: '',
-    api: '',
+    "id": 3,
+    "website": "https://randomuser.me/",
+    "api": "https://randomuser.me/api/"
   },
+  {
+    "id": 4,
+    "website": "https://www.thesportsdb.com/",
+    "api": "https://www.thesportsdb.com/api/v1/json/2/searchplayers.php?p=Danny%20Welbeck"
+  },
+  {
+    "id": 5,
+    "website": "https://www.thecocktaildb.com/",
+    "api": "www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita"
+  },
+  {
+    "id": 6,
+    "website": "https://www.theaudiodb.com/",
+    "api": "https://theaudiodb.com/api/v1/json/2/search.php?s=coldplay"
+  },
+  {
+    "id": 7,
+    "website": "https://restcountries.com/",
+    "api": "https://restcountries.com/v3.1/all"
+  },
+  {
+    "id": 8,
+    "website": "https://makeup-api.herokuapp.com/",
+    "api": "http://makeup-api.herokuapp.com/api/v1/products.json"
+  },
+  {
+    "id": 9,
+    "website": "https://github.com/foyzulkarim/memorizedquran",
+    "api": "https://github.com/foyzulkarim/memorizedquran/blob/develop/src/data/quran.json"
+  },
+  {
+    "id": 10,
+    "website": "https://openweathermap.org/api",
+    "api": "https://api.openweathermap.org/data/2.5/weather?q=<city>&appid=${API_KEY}&units=metric"
+  },
+  {
+    "id": 11,
+    "website": "",
+    "api": ""
+  },
+  {
+    "id": 12,
+    "website": "",
+    "api": ""
+  }
 ]
